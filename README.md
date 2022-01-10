@@ -14,3 +14,5 @@ Sample website with plenty of files for demos
 
 ## How to contribute 
 write something something over here
+to tell how to contribute
+
