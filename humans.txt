@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Deepansh Sde ds@gmail.com
 
 # THANKS
 
