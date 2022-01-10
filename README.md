@@ -16,5 +16,7 @@ Sample website with plenty of files for demos
 write something something over here
 to tell how to contribute
 
+Please fork this repo & then issue pull
+
 ## Copyright
 2022 git.hitman
