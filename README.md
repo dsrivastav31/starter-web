@@ -19,4 +19,4 @@ to tell how to contribute
 Please fork this repo & then issue pull
 
 ## Copyright
-2022 git.hitman
+2022 git.hitman. All right resreved.
